@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="430dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:backgroundTint="@color/f1f4fb"
+    android:layout_marginEnd="20dp"
+    app:cardCornerRadius="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center
+"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="30dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/plantName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Alocasia Polly"
+                android:textSize="23sp"
+                android:fontFamily="@font/freesans"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/plantFamily"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Araceae family"
+                android:textSize="15sp"
+                android:fontFamily="@font/freesans"
+                android:textColor="@color/lightGray"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/plantImg"
+                android:layout_width="250dp"
+                android:layout_height="260dp"
+                android:src="@drawable/common_google_signin_btn_icon_light_normal"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="30dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:textStyle="bold"
+                android:fontFamily="@font/freesans"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:id="@+id/plantPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="228"
+                android:fontFamily="@font/freesans"
+                android:textStyle="bold"
+                android:textSize="23sp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

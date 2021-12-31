@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Plant Store</string>
+    <string name="plantiy">Plantiy</string>
+    <string name="indoors">Indoor</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="succulent">Succulent</string>
+    <string name="pots">Pots</string>
+    <string name="Alocasia_price">24</string>
+    <string name="Sansevieria_price">19</string>
+    <string name="Ficus_price">26</string>
+    <string name="Calathea_price">18</string>
+    <string name="pot1_price">8</string>
+    <string name="text_hyacinth">Hyacinth</string>
+    <string name="Hyacinth_price">19</string>
+    <string name="alocasia_polly">Alocasia polly</string>
+    <string name="araceae_family">Araceae family</string>
+    <string name="all">All</string>
+    <string name="asparagaceae_family">Asparagaceae family</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="back">Back</string>
+    <string name="in_stock_200">in stock 200</string>
+    <string name="_1">1</string>
+    <string name="marantaceae_family">Marantaceae family</string>
+    <string name="ceramic_pot">Ceramic pot</string>
+    <string name="calathea_lancifolia">Calathea lancifolia</string>
+    <string name="sansevieria">Sansevieria</string>
+    <string name="ficus">Ficus</string>
+    <string name="moraceae_family">Moraceae family</string>
+    <string name="peace_lily">Peace Lily</string>
+    <string name="liliaceae_family">Liliaceae family</string>
+    <string name="aloe_vera">Aloe Vera</string>
+    <string name="peace_lily_price">34</string>
+    <string name="aloe_vera_price">28</string>
+    <string name="popular">Popular</string>
+    <string name="pink_anthurium">Pink Anthurium</string>
+    <string name="pink_anthurium_price">26</string>
+    <string name="cactaceae_family">Cactaceae family</string>
+    <string name="cactus">Cactus</string>
+    <string name="cactus_price">25</string>
+    <string name="stone_pot">Stone pot</string>
+    <string name="stone_pot_price">9</string>
+    <string name="about_info">Pelargonium is a plant of the geranium family. The main active substances of pelargonium are phenolic compounds: coumarins, flavonoids and phenolic acids.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
